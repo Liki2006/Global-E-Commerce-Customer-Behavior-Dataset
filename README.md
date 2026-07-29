@@ -1,4 +1,5 @@
-#Global E-Commerce Customer Behavior Analysis
+Global E-Commerce Customer Behavior Analysis
+
 📌 Project Overview
 
 This project presents an end-to-end analysis of a Global E-Commerce Customer Behavior dataset containing 100,000 records.
